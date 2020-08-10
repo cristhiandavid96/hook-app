@@ -1,3 +1,3 @@
 #Hook app
 
-esta es una pequeña aplicacion realizada con hooks y el manejo de funcitonal component
+esta es una pequeña aplicacion realizada con hooks y el manejo de functional component
